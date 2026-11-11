@@ -1,0 +1,145 @@
+model,seed,grouping,value,n,accuracy
+Early Fusion,13,subject,language science,44,0.38636363636363635
+Early Fusion,13,subject,natural science,1209,0.5268817204301075
+Early Fusion,13,subject,social science,764,0.6452879581151832
+Early Fusion,13,grade,grade1,2,0.0
+Early Fusion,13,grade,grade12,5,0.2
+Early Fusion,13,grade,grade2,117,0.6068376068376068
+Early Fusion,13,grade,grade3,342,0.6842105263157895
+Early Fusion,13,grade,grade4,361,0.6343490304709142
+Early Fusion,13,grade,grade5,336,0.6279761904761905
+Early Fusion,13,grade,grade6,271,0.5276752767527675
+Early Fusion,13,grade,grade7,281,0.4626334519572954
+Early Fusion,13,grade,grade8,302,0.423841059602649
+Early Fusion,13,n_choices,2,677,0.5878877400295421
+Early Fusion,13,n_choices,3,532,0.4642857142857143
+Early Fusion,13,n_choices,4,770,0.6350649350649351
+Early Fusion,13,n_choices,5,38,0.34210526315789475
+Early Fusion,42,subject,language science,44,0.38636363636363635
+Early Fusion,42,subject,natural science,1209,0.5153019023986766
+Early Fusion,42,subject,social science,764,0.6479057591623036
+Early Fusion,42,grade,grade1,2,0.0
+Early Fusion,42,grade,grade12,5,0.2
+Early Fusion,42,grade,grade2,117,0.6153846153846154
+Early Fusion,42,grade,grade3,342,0.672514619883041
+Early Fusion,42,grade,grade4,361,0.631578947368421
+Early Fusion,42,grade,grade5,336,0.6041666666666666
+Early Fusion,42,grade,grade6,271,0.5313653136531366
+Early Fusion,42,grade,grade7,281,0.45907473309608543
+Early Fusion,42,grade,grade8,302,0.423841059602649
+Early Fusion,42,n_choices,2,677,0.5819793205317577
+Early Fusion,42,n_choices,3,532,0.45112781954887216
+Early Fusion,42,n_choices,4,770,0.6363636363636364
+Early Fusion,42,n_choices,5,38,0.2894736842105263
+Early Fusion,73,subject,language science,44,0.4090909090909091
+Early Fusion,73,subject,natural science,1209,0.5169561621174524
+Early Fusion,73,subject,social science,764,0.6544502617801047
+Early Fusion,73,grade,grade1,2,0.0
+Early Fusion,73,grade,grade12,5,0.2
+Early Fusion,73,grade,grade2,117,0.6068376068376068
+Early Fusion,73,grade,grade3,342,0.6754385964912281
+Early Fusion,73,grade,grade4,361,0.6232686980609419
+Early Fusion,73,grade,grade5,336,0.6279761904761905
+Early Fusion,73,grade,grade6,271,0.5239852398523985
+Early Fusion,73,grade,grade7,281,0.4626334519572954
+Early Fusion,73,grade,grade8,302,0.4370860927152318
+Early Fusion,73,n_choices,2,677,0.5893648449039882
+Early Fusion,73,n_choices,3,532,0.44548872180451127
+Early Fusion,73,n_choices,4,770,0.6415584415584416
+Early Fusion,73,n_choices,5,38,0.34210526315789475
+Intermediate Fusion,13,subject,language science,44,0.45454545454545453
+Intermediate Fusion,13,subject,natural science,1209,0.5244003308519437
+Intermediate Fusion,13,subject,social science,764,0.6531413612565445
+Intermediate Fusion,13,grade,grade1,2,0.0
+Intermediate Fusion,13,grade,grade12,5,0.2
+Intermediate Fusion,13,grade,grade2,117,0.5811965811965812
+Intermediate Fusion,13,grade,grade3,342,0.6929824561403509
+Intermediate Fusion,13,grade,grade4,361,0.628808864265928
+Intermediate Fusion,13,grade,grade5,336,0.6279761904761905
+Intermediate Fusion,13,grade,grade6,271,0.5387453874538746
+Intermediate Fusion,13,grade,grade7,281,0.5088967971530249
+Intermediate Fusion,13,grade,grade8,302,0.3973509933774834
+Intermediate Fusion,13,n_choices,2,677,0.5864106351550961
+Intermediate Fusion,13,n_choices,3,532,0.48120300751879697
+Intermediate Fusion,13,n_choices,4,770,0.6402597402597403
+Intermediate Fusion,13,n_choices,5,38,0.18421052631578946
+Intermediate Fusion,42,subject,language science,44,0.4318181818181818
+Intermediate Fusion,42,subject,natural science,1209,0.5103391232423491
+Intermediate Fusion,42,subject,social science,764,0.6649214659685864
+Intermediate Fusion,42,grade,grade1,2,0.0
+Intermediate Fusion,42,grade,grade12,5,0.2
+Intermediate Fusion,42,grade,grade2,117,0.5726495726495726
+Intermediate Fusion,42,grade,grade3,342,0.672514619883041
+Intermediate Fusion,42,grade,grade4,361,0.628808864265928
+Intermediate Fusion,42,grade,grade5,336,0.6458333333333334
+Intermediate Fusion,42,grade,grade6,271,0.5129151291512916
+Intermediate Fusion,42,grade,grade7,281,0.47686832740213525
+Intermediate Fusion,42,grade,grade8,302,0.4271523178807947
+Intermediate Fusion,42,n_choices,2,677,0.5716395864106352
+Intermediate Fusion,42,n_choices,3,532,0.4605263157894737
+Intermediate Fusion,42,n_choices,4,770,0.6532467532467533
+Intermediate Fusion,42,n_choices,5,38,0.23684210526315788
+Intermediate Fusion,73,subject,language science,44,0.4090909090909091
+Intermediate Fusion,73,subject,natural science,1209,0.5301902398676592
+Intermediate Fusion,73,subject,social science,764,0.668848167539267
+Intermediate Fusion,73,grade,grade1,2,0.0
+Intermediate Fusion,73,grade,grade12,5,0.2
+Intermediate Fusion,73,grade,grade2,117,0.5470085470085471
+Intermediate Fusion,73,grade,grade3,342,0.7017543859649122
+Intermediate Fusion,73,grade,grade4,361,0.6426592797783933
+Intermediate Fusion,73,grade,grade5,336,0.6398809523809523
+Intermediate Fusion,73,grade,grade6,271,0.5313653136531366
+Intermediate Fusion,73,grade,grade7,281,0.49110320284697506
+Intermediate Fusion,73,grade,grade8,302,0.4503311258278146
+Intermediate Fusion,73,n_choices,2,677,0.5937961595273265
+Intermediate Fusion,73,n_choices,3,532,0.4718045112781955
+Intermediate Fusion,73,n_choices,4,770,0.6584415584415585
+Intermediate Fusion,73,n_choices,5,38,0.2631578947368421
+Text-only,13,subject,language science,44,0.38636363636363635
+Text-only,13,subject,natural science,1209,0.5045492142266336
+Text-only,13,subject,social science,764,0.581151832460733
+Text-only,13,grade,grade1,2,0.0
+Text-only,13,grade,grade12,5,0.2
+Text-only,13,grade,grade2,117,0.5470085470085471
+Text-only,13,grade,grade3,342,0.6198830409356725
+Text-only,13,grade,grade4,361,0.5817174515235457
+Text-only,13,grade,grade5,336,0.5595238095238095
+Text-only,13,grade,grade6,271,0.5055350553505535
+Text-only,13,grade,grade7,281,0.4377224199288256
+Text-only,13,grade,grade8,302,0.4503311258278146
+Text-only,13,n_choices,2,677,0.5642540620384048
+Text-only,13,n_choices,3,532,0.45300751879699247
+Text-only,13,n_choices,4,770,0.5701298701298702
+Text-only,13,n_choices,5,38,0.23684210526315788
+Text-only,42,subject,language science,44,0.38636363636363635
+Text-only,42,subject,natural science,1209,0.5128205128205128
+Text-only,42,subject,social science,764,0.5968586387434555
+Text-only,42,grade,grade1,2,0.0
+Text-only,42,grade,grade12,5,0.2
+Text-only,42,grade,grade2,117,0.5897435897435898
+Text-only,42,grade,grade3,342,0.631578947368421
+Text-only,42,grade,grade4,361,0.5734072022160664
+Text-only,42,grade,grade5,336,0.5952380952380952
+Text-only,42,grade,grade6,271,0.5092250922509225
+Text-only,42,grade,grade7,281,0.4483985765124555
+Text-only,42,grade,grade8,302,0.4503311258278146
+Text-only,42,n_choices,2,677,0.5775480059084195
+Text-only,42,n_choices,3,532,0.4473684210526316
+Text-only,42,n_choices,4,770,0.5896103896103896
+Text-only,42,n_choices,5,38,0.2631578947368421
+Text-only,73,subject,language science,44,0.38636363636363635
+Text-only,73,subject,natural science,1209,0.5012406947890818
+Text-only,73,subject,social science,764,0.5955497382198953
+Text-only,73,grade,grade1,2,0.0
+Text-only,73,grade,grade12,5,0.2
+Text-only,73,grade,grade2,117,0.5726495726495726
+Text-only,73,grade,grade3,342,0.6228070175438597
+Text-only,73,grade,grade4,361,0.5734072022160664
+Text-only,73,grade,grade5,336,0.5773809523809523
+Text-only,73,grade,grade6,271,0.4944649446494465
+Text-only,73,grade,grade7,281,0.45195729537366547
+Text-only,73,grade,grade8,302,0.4470198675496689
+Text-only,73,n_choices,2,677,0.5716395864106352
+Text-only,73,n_choices,3,532,0.4398496240601504
+Text-only,73,n_choices,4,770,0.5831168831168831
+Text-only,73,n_choices,5,38,0.21052631578947367

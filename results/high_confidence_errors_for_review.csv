@@ -1,0 +1,46 @@
+model,seed,confidence,subject,grade,question,choices,correct_option_index,predicted_option_index,error_cause_manual_review
+Text-only,13,0.9001674056053162,natural science,grade3,"Based on the arrows, which of the following living things is an omnivore?","[""phytoplankton"", ""plainfin midshipman""]",1,0,NOT YET REVIEWED
+Text-only,13,0.8922063708305359,natural science,grade2,Which material is this path made of?,"[""plastic"", ""brick""]",1,0,NOT YET REVIEWED
+Text-only,13,0.8919971585273743,natural science,grade2,What evidence of a flood does this picture show?,"[""The benches on the riverbank are partly underwater."", ""There are two benches beside the river.""]",0,1,NOT YET REVIEWED
+Text-only,13,0.8750860095024109,natural science,grade7,"In this food web, which organism contains matter that eventually moves to the earthworm?","[""mushroom"", ""short-tailed weasel""]",1,0,NOT YET REVIEWED
+Text-only,13,0.8691374659538269,natural science,grade5,Which animal's skin is better adapted as a warning sign to ward off predators?,"[""opalescent nudibranch"", ""lechwe""]",0,1,NOT YET REVIEWED
+Text-only,13,0.8540915846824646,natural science,grade5,Which fish's mouth is also adapted for tearing through meat?,"[""parrotfish"", ""starry moray""]",1,0,NOT YET REVIEWED
+Text-only,13,0.853159487247467,natural science,grade4,Which animal's skin is better adapted as a warning sign to ward off predators?,"[""gray tree frog"", ""Spanish shawl nudibranch""]",1,0,NOT YET REVIEWED
+Text-only,13,0.8443038463592529,social science,grade3,What is the capital of Georgia?,"[""Augusta"", ""Lincoln"", ""Jackson"", ""Atlanta""]",3,0,NOT YET REVIEWED
+Text-only,13,0.8416283130645752,social science,grade2,Which i in column 2?,"[""the pond"", ""the fast-food restaurant"", ""the police department"", ""the grocery store""]",1,2,NOT YET REVIEWED
+Text-only,13,0.8365496397018433,natural science,grade4,Which animal's skin is better adapted as a warning sign to ward off predators?,"[""lichen katydid"", ""opalescent nudibranch""]",1,0,NOT YET REVIEWED
+Text-only,13,0.8335041999816895,social science,grade4,What is the capital of West Virginia?,"[""Charleston"", ""Huntington"", ""Baton Rouge"", ""Richmond""]",0,3,NOT YET REVIEWED
+Text-only,13,0.8132082223892212,natural science,grade3,Select the bird below.,"[""painted stork"", ""human""]",0,1,NOT YET REVIEWED
+Text-only,13,0.8130086660385132,natural science,grade4,Can Danio rerio cells make their own food?,"[""yes"", ""no""]",1,0,NOT YET REVIEWED
+Text-only,13,0.8117952346801758,natural science,grade3,Which animal's feet are also adapted for digging?,"[""groundhog"", ""bottlenose dolphin""]",0,1,NOT YET REVIEWED
+Text-only,13,0.8107351660728455,natural science,grade3,Which animal's body is better adapted for protection against a predator with sharp teeth?,"[""eastern rat snake"", ""nautilus""]",1,0,NOT YET REVIEWED
+Early Fusion,13,0.9987348914146423,natural science,grade2,What evidence of a flood does this picture show?,"[""The benches on the riverbank are partly underwater."", ""There are two benches beside the river.""]",0,1,NOT YET REVIEWED
+Early Fusion,13,0.9945255517959595,natural science,grade6,Which trait did Meiolania have? Select the trait you can observe on the fossil.,"[""long, thin antennae"", ""toes""]",1,0,NOT YET REVIEWED
+Early Fusion,13,0.9851536750793457,natural science,grade5,Which fish's mouth is also adapted for tearing through meat?,"[""parrotfish"", ""starry moray""]",1,0,NOT YET REVIEWED
+Early Fusion,13,0.9820592999458313,natural science,grade2,Which material is this path made of?,"[""plastic"", ""brick""]",1,0,NOT YET REVIEWED
+Early Fusion,13,0.9749833941459656,natural science,grade3,Which material is this egg carton made of?,"[""ceramic"", ""cardboard""]",1,0,NOT YET REVIEWED
+Early Fusion,13,0.9725289940834045,natural science,grade5,Which animal's skin is better adapted as a warning sign to ward off predators?,"[""opalescent nudibranch"", ""lechwe""]",0,1,NOT YET REVIEWED
+Early Fusion,13,0.9664976596832275,natural science,grade5,Which fish's mouth is also adapted for tearing through meat?,"[""seahorse"", ""starry moray""]",1,0,NOT YET REVIEWED
+Early Fusion,13,0.9555540084838867,natural science,grade3,Select the bird below.,"[""painted stork"", ""human""]",0,1,NOT YET REVIEWED
+Early Fusion,13,0.9545581936836243,natural science,grade2,Which property matches this object?,"[""blue"", ""hard""]",0,1,NOT YET REVIEWED
+Early Fusion,13,0.9540061950683594,natural science,grade7,"In this food web, which organism contains matter that eventually moves to the earthworm?","[""mushroom"", ""short-tailed weasel""]",1,0,NOT YET REVIEWED
+Early Fusion,13,0.9519382119178772,natural science,grade5,Which animal is also adapted to be camouflaged in a sandy desert?,"[""Namaqua chameleon"", ""fire salamander""]",0,1,NOT YET REVIEWED
+Early Fusion,13,0.9509694576263428,natural science,grade7,"During this time, thermal energy was transferred from () to ().","[""each vial . . . the surroundings"", ""the surroundings . . . each vial""]",1,0,NOT YET REVIEWED
+Early Fusion,13,0.9484179615974426,natural science,grade8,"During this time, thermal energy was transferred from () to ().","[""each vial . . . the surroundings"", ""the surroundings . . . each vial""]",1,0,NOT YET REVIEWED
+Early Fusion,13,0.9452236890792847,natural science,grade4,Which animal's skin is better adapted as a warning sign to ward off predators?,"[""gray tree frog"", ""Spanish shawl nudibranch""]",1,0,NOT YET REVIEWED
+Early Fusion,13,0.9447020888328552,natural science,grade5,Which fish's mouth is also adapted for tearing through meat?,"[""starry moray"", ""copperband butterflyfish""]",0,1,NOT YET REVIEWED
+Intermediate Fusion,13,0.9999957084655762,natural science,grade3,Which property matches this object?,"[""scratchy"", ""yellow""]",1,0,NOT YET REVIEWED
+Intermediate Fusion,13,0.9999909400939941,natural science,grade2,Select the amphibian below.,"[""red-spotted newt"", ""human""]",0,1,NOT YET REVIEWED
+Intermediate Fusion,13,0.9998971223831177,natural science,grade3,Which property matches this object?,"[""blue"", ""scratchy""]",0,1,NOT YET REVIEWED
+Intermediate Fusion,13,0.9998279809951782,natural science,grade2,Which property matches this object?,"[""blue"", ""hard""]",0,1,NOT YET REVIEWED
+Intermediate Fusion,13,0.9996961355209351,natural science,grade5,Which fish's mouth is also adapted for tearing through meat?,"[""parrotfish"", ""starry moray""]",1,0,NOT YET REVIEWED
+Intermediate Fusion,13,0.9996522665023804,natural science,grade3,Select the bird below.,"[""painted stork"", ""human""]",0,1,NOT YET REVIEWED
+Intermediate Fusion,13,0.9993215799331665,natural science,grade5,Which fish's mouth is also adapted for tearing through meat?,"[""seahorse"", ""starry moray""]",1,0,NOT YET REVIEWED
+Intermediate Fusion,13,0.9993090629577637,natural science,grade4,Which part of the tomato plant makes the seeds?,"[""the fruit"", ""the flowers""]",1,0,NOT YET REVIEWED
+Intermediate Fusion,13,0.9991087317466736,social science,grade3,Which i in column 3?,"[""the library"", ""the restaurant"", ""the police department"", ""the grocery store""]",3,2,NOT YET REVIEWED
+Intermediate Fusion,13,0.9990850687026978,social science,grade4,What is the capital of West Virginia?,"[""Charleston"", ""Huntington"", ""Baton Rouge"", ""Richmond""]",0,3,NOT YET REVIEWED
+Intermediate Fusion,13,0.9972233772277832,natural science,grade3,Which property matches this object?,"[""flexible"", ""fragile""]",1,0,NOT YET REVIEWED
+Intermediate Fusion,13,0.9958055019378662,natural science,grade6,Which statement describes the Mount Rainier National Park ecosystem?,"[""It has many evergreen trees."", ""It has soil that is frozen year-round.""]",0,1,NOT YET REVIEWED
+Intermediate Fusion,13,0.9931716918945312,natural science,grade6,Which trait did Meiolania have? Select the trait you can observe on the fossil.,"[""long, thin antennae"", ""toes""]",1,0,NOT YET REVIEWED
+Intermediate Fusion,13,0.9925091862678528,natural science,grade5,Which fish's mouth is also adapted for tearing through meat?,"[""starry moray"", ""copperband butterflyfish""]",0,1,NOT YET REVIEWED
+Intermediate Fusion,13,0.9924302697181702,language science,grade2,Look at the picture. Which word best describes the sound these birds make?,"[""chirping"", ""quacking"", ""popping""]",0,2,NOT YET REVIEWED

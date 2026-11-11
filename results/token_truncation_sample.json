@@ -1,0 +1,14 @@
+{
+  "train": {
+    "truncated": 27,
+    "measured": 1000
+  },
+  "validation": {
+    "truncated": 38,
+    "measured": 1000
+  },
+  "test": {
+    "truncated": 90,
+    "measured": 1000
+  }
+}

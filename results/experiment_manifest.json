@@ -1,0 +1,57 @@
+{
+  "dataset": "lmms-lab/ScienceQA-IMG",
+  "text_encoder": "bert-base-uncased",
+  "image_encoder": "google/vit-base-patch16-224-in21k",
+  "quick_run": false,
+  "max_text_tokens": 128,
+  "patch_pool": 2,
+  "original_sizes": {
+    "train": 6218,
+    "validation": 2097,
+    "test": 2017
+  },
+  "clean_sizes": {
+    "train": 3530,
+    "validation": 1343,
+    "test": 2017
+  },
+  "sampled_sizes": {
+    "train": 3530,
+    "validation": 1343,
+    "test": 2017
+  },
+  "seeds": [
+    13,
+    42,
+    73
+  ],
+  "excluded_input_columns": [
+    "lecture",
+    "solution"
+  ],
+  "overlap_policy": "test > validation > train; exact canonical RGB or normalised question+choices",
+  "audit_decisions": "{('test', 'keep'): 2017, ('train', 'cross_split_image'): 1467, ('train', 'cross_split_text'): 1221, ('train', 'keep'): 3530, ('validation', 'cross_split_image'): 378, ('validation', 'cross_split_text'): 376, ('validation', 'keep'): 1343}",
+  "hyperparameters": {
+    "batch": 32,
+    "lr": 0.0003,
+    "epochs": 10,
+    "patience": 3,
+    "weight_decay": 0.01,
+    "hidden": 256,
+    "dropout": 0.25
+  },
+  "completed_utc": "2026-11-08T14:36:07.008344+00:00",
+  "package_versions": {
+    "torch": "2.14.1+cu130",
+    "transformers": "4.57.6",
+    "datasets": "4.8.5",
+    "numpy": "2.4.6",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.6.1",
+    "Pillow": "11.3.0",
+    "matplotlib": "3.10.0",
+    "python": "3.13.16",
+    "device": "cuda",
+    "pytorch_cuda": "13.0"
+  }
+}
